@@ -1,0 +1,6 @@
+{
+  "name": "TDSpeak - Luyện Nói Tiếng Anh & Từ Vựng SRS",
+  "description": "Ứng dụng EdTech hỗ trợ học sinh trung học luyện phát âm tiếng Anh với AI và ghi nhớ từ vựng thông minh theo phương pháp Lặp lại ngắt quãng (SRS).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
